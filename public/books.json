@@ -1,0 +1,104 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "image": "https://image.tmdb.org/t/p//w780//t8KDLjE9I6063Gr3yD4t2EG9Vzm.jpg",
+        "review": "Harry Potter and the Sorcerer's Stone by J.K. Rowling is an enchanting tale that introduces readers to the magical world of Hogwarts. Through Harry Potter's journey, we discover themes of friendship, bravery, and self-discovery. Rowling's captivating storytelling, filled with vivid characters and imaginative settings, draws readers into a world where wonders never cease. As Harry uncovers secrets about his past and confronts the dark wizard Voldemort, the story explores universal themes of love and the battle between good and evil. With its timeless appeal and richly woven narrative, Harry Potter and the Sorcerer's Stone continues to captivate readers of all ages.",
+        "totalPages": 309,
+        "rating": 4.8,
+        "category": "Fantasy",
+        "tags": [
+            "Magic",
+            "Adventure"
+        ],
+        "publisher": "Bloomsbury Publishing",
+        "yearOfPublishing": 1997,
+        "audience": "Younger"
+    },
+    {
+        "bookId": 2,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://a.storyblok.com/f/181188/1351x2048/504f71950d/to-kill-a-mockingbird.jpeg",
+        "review": "To Kill a Mockingbird by Harper Lee delves into the complexities of racial injustice and moral growth within the fictional town of Maycomb, Alabama. Through the lens of young Scout Finch, the narrative explores themes of prejudice and the loss of innocence, painting a vivid picture of the Deep South during the 1930s. Harper Lee's masterful storytelling confronts readers with the harsh realities of discrimination and inequality as Scout's father, Atticus Finch, defends a black man falsely accused of rape. This timeless classic provokes reflection on justice and compassion, fostering empathy and understanding across generations.",
+        "totalPages": 281,
+        "rating": 4.3,
+        "category": "Fiction",
+        "tags": [
+            "Classic",
+            "Social Issues"
+        ],
+        "publisher": "J. B. Lippincott & Co.",
+        "yearOfPublishing": 1960,
+        "audience": "Older"
+    },
+    {
+        "bookId": 3,
+        "bookName": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975l/2767052._SY475_.jpg",
+        "review": "The Hunger Games by Suzanne Collins presents a riveting exploration of a dystopian future set in the nation of Panem. Through the eyes of protagonist Katniss Everdeen, the narrative unfurls themes of survival, sacrifice, and rebellion against oppressive forces. Collins' skillful storytelling immerses readers in a world where the chasm between the affluent Capitol and the oppressed districts is glaring. As Katniss navigates the brutal Hunger Games arena, readers witness the resilience of the human spirit amidst adversity. This modern classic not only entertains with its fast-paced plot but also prompts reflection on societal issues, making it a compelling read for audiences of all ages.",
+        "totalPages": 374,
+        "rating": 4.5,
+        "category": "Young Adult",
+        "tags": [
+            "Dystopian",
+            "Adventure"
+        ],
+        "publisher": "Scholastic Press",
+        "yearOfPublishing": 2008,
+        "audience": "Younger"
+    },
+    {
+        "bookId": 4,
+        "bookName": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "image": "https://www.ynharari.com/wp-content/uploads/2017/01/Thiland-cover-scaled-Sapiens.png",
+        "review": "Sapiens: A Brief History of Humankind by Yuval Noah Harari offers an illuminating journey through the evolution of Homo sapiens, from our earliest origins in Africa to the complexities of modern society. Through meticulous research and engaging prose, Harari explores key events and developments that have shaped human history, challenging readers to reconsider their understanding of humanity's place in the world. With insights from anthropology, biology, and economics, Harari examines the role of shared myths and cooperation in the success of our species, provoking thought on the nature of society, culture, and the future of humankind. This thought-provoking book captivates readers with its interdisciplinary approach and profound insights into the human condition.",
+        "totalPages": 443,
+        "rating": 4.7,
+        "category": "Nonfiction",
+        "tags": [
+            "History",
+            "Anthropology"
+        ],
+        "publisher": "Harper",
+        "yearOfPublishing": 2011,
+        "audience": "Older"
+    },
+    {
+        "bookId": 5,
+        "bookName": "The Diary of a Young Girl",
+        "author": "Anne Frank",
+        "image": "https://m.media-amazon.com/images/I/71qeWx83sxL._AC_UF1000,1000_QL80_.jpg",
+        "review": "The Diary of a Young Girl, penned by Anne Frank, offers a poignant and intimate glimpse into the life of a young Jewish girl hiding from Nazi persecution during World War II. Through Anne's candid and introspective entries, readers are transported to the annex in Amsterdam where she and her family sought refuge. The diary not only chronicles the daily struggles of life in hiding but also reflects Anne's innermost thoughts, dreams, and aspirations. As readers journey alongside Anne, they bear witness to her unwavering optimism, resilience, and indomitable spirit in the face of unimaginable adversity. Anne's diary remains a powerful testament to the human spirit and a timeless reminder of the atrocities of war.",
+        "totalPages": 283,
+        "rating": 4.6,
+        "category": "Biography",
+        "tags": [
+            "Holocaust",
+            "Memoir"
+        ],
+        "publisher": "Contact Publishing",
+        "yearOfPublishing": 1947,
+        "audience": "Older"
+    },
+    {
+        "bookId": 6,
+        "bookName": "Where the Wild Things Are",
+        "author": "Maurice Sendak",
+        "image": "https://woojr.com/wp-content/uploads/2009/10/Where-the-Wild-Things-Are.png",
+        "review": "Where the Wild Things Are by Maurice Sendak is a beloved children's book that takes readers on an imaginative journey with young Max. After being sent to bed without supper, Max's bedroom transforms into a wild forest inhabited by monstrous creatures known as the Wild Things. Through Max's adventure, readers experience a world of wild rumpus and imaginative exploration. Maurice Sendak's evocative illustrations and sparse text capture the essence of childhood imagination and the universal longing for freedom and adventure. Where the Wild Things Are continues to enchant readers of all ages with its timeless tale of escapism, friendship, and the power of imagination.",
+        "totalPages": 48,
+        "rating": 4.4,
+        "category": "Children's",
+        "tags": [
+            "Adventure",
+            "Imagination"
+        ],
+        "publisher": "Harper & Row",
+        "yearOfPublishing": 1963,
+        "audience": "Younger"
+    }
+]
