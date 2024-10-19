@@ -1,15 +1,15 @@
 <h1>
     Book Vibe
 </h1>
-<hr><br>
+<hr>
 <h3> Live Link:
     <a href="https://boookvibe.netlify.app/">
         Book Vibe
     </a>
-</h3><br>
+</h3>
+<h4>Tools & Technologies: Tailwind CSS, DaisyUI, React, React Router, Local Storage, Recharts</h4>
 
 <h2>Website Features:</h2>
-
 <ul style="text-align:left">
    <li>
   <span style="font-weight:bold">Comprehensive Book Details:</span> Book Vibe provides users with detailed information about each book, including reviews, summaries, and genre categorization (e.g., fiction, biography), enabling informed decisions on what to read next.</li>
@@ -25,12 +25,14 @@
 
 <br>
 
-<h2>Usages Tools:</h2>
-<div>
-    <h4>Tailwind CSS</h4>
-    <h4>DaisyUI</h4>
-    <h4>React</h4>
-    <h4>React Router</h4>
-    <h4>Local Storage</h4>
-    <h4>Recharts</h4>
+
+<h2>Project Demo:</h2>
+
+<div style="text-align:center">
+    <img src="https://github.com/atiqueshahriarr/Book-Vibe/blob/main/Book-Vibe-1.png?raw=true"
+        alt="project-screenshot" width="100%" height="100%">
+    <img src="https://github.com/atiqueshahriarr/Book-Vibe/blob/main/Book-Vibe-2.png?raw=true"
+        alt="project-screenshot" width="100%" height="100%">
+    <img src="https://github.com/atiqueshahriarr/Book-Vibe/blob/main/Book-Vibe-3.png?raw=true"
+        alt="project-screenshot" width="100%" height="100%">
 </div>
